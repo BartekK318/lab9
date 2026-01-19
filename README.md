@@ -8,3 +8,6 @@ Druga sekcja README
 Trzecia sekcja README
 
 Zmiana w galezi test
+
+## Feature
+Opis nowej funkcjonalnosci
