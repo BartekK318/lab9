@@ -7,3 +7,4 @@ Druga sekcja README
 ## Sekcja 3
 Trzecia sekcja README
 
+Zmiana w galezi test
